@@ -1,0 +1,4 @@
+[2024-08-22 18:05:08,464]22root-INFO-Entered the data ingestion method or component
+[2024-08-22 18:05:08,487]25root-INFO-Read the dataset as dataframe
+[2024-08-22 18:05:08,493]31root-INFO-Tain test split intitiated
+[2024-08-22 18:05:08,507]38root-INFO-Ingestion of data is completed
